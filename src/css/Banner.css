@@ -1,0 +1,11 @@
+
+div.hero-body.is-custom{
+  background-image:url("../img/Banner.jpg");
+  opacity: 1;
+}
+.Title{
+  font-size: 67px;
+  letter-spacing: 10px;
+  color: rgba(255, 255, 255, 0.8);
+  text-shadow: 0 0 20px #FFFFFF;
+}

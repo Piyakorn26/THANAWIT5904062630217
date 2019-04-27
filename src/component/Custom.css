@@ -1,0 +1,37 @@
+div.columns.has-background-black{
+  overflow: hidden;
+}
+div.column.is-10.is-custom{
+  overflow-y: scroll;
+  height: 542px;
+}
+div.box.has-text-centered.is-custom{
+  font-size: 45px;
+  background : rgba(54, 54, 54, 1);
+  color: white;
+  transition-duration: 0.5s;
+}
+div.box.has-text-centered.is-custom:hover{
+  background : rgba(54, 54, 54, 0.6);
+  text-shadow: 0 0 10px white;
+}
+.Homepage{
+  background-image:url("../img/homepage.jpg");
+  height:747px;
+  overflow: hidden;
+}
+.black-cover{
+  color: white;
+  font-size: 100px;
+  letter-spacing: 12px;
+  height: 84vh;
+  background: rgba(0, 0, 0, 0.7);
+}
+hr{
+  background-color: white;
+  height: 2px;
+  border: 0;
+}
+tr:hover{
+  color:black;
+}
